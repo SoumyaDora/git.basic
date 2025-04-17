@@ -1,6 +1,6 @@
-key=aws
+key=aws azure
 MinCount==1
-max==i7
+max==7
 
 
 bcvc
